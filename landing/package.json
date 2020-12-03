@@ -1,0 +1,31 @@
+{
+  "name": "cousera-full-stack",
+  "version": "1.0.0",
+  "description": "Coursera Full-Stack Web Development with React",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianisCaro99/Coursera-FS.git"
+  },
+  "author": "Dianis Caro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DianisCaro99/Coursera-FS/issues"
+  },
+  "homepage": "https://github.com/DianisCaro99/Coursera-FS#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
