@@ -1,10 +1,31 @@
 import React, { Component } from "react";
+import Calendario from './calendario'
 import '../css/styles.css'
 import Group1 from './img/group-1.png';
 import Group2 from './img/group-2.png';
 import HeaderImg from './img/pageHeader.png';
 
 class Inicio extends Component {
+
+    constructor(props) {
+        super(props);
+        this.state = {value: 'Ninguna'};
+    
+        this.handleChange = this.handleChange.bind(this);
+        this.handleSubmit = this.handleSubmit.bind(this);
+      }
+    
+      handleChange(event) {
+        this.setState({value: event.target.value});
+      }
+    
+      handleSubmit(event) {
+        console.log('A name was submitted: ' + this.state.value)
+        
+      }
+
+
+
   render() {
     return (
         <div>
@@ -13,6 +34,27 @@ class Inicio extends Component {
                 <div className="container">
                     <h1 className="font-weight-semibold">Recopilación de calendarios académicos</h1>
                     <h6 className="font-weight-normal text-muted pb-3">Proyecto de investigación y creación en pregrado</h6>
+                    <br/>
+                    <br/>
+                    <form id="formulario" className="form-inline" style={{"marginLeft":"2.5em"}}>
+                        <label className="my-1" htmlFor="inlineFormCustomSelectPref"></label>
+                        <select form="formulario" className="custom-select my-1 mr-sm-2" id="inlineFormCustomSelectPref"
+                         value={this.state.value} onChange={this.handleChange} 
+                         style={{"width": "100%", "height": "50px","fontSize":"20px", "paddingLeft":"1em","marginRight":"0px"}}>
+                            <option value="Ninguna" style={{"fontSize":"20px"}}>Escoge una organización</option>
+                            
+                            <option value="Universidad Nacional" style={{"fontSize":"20px"}}>Universidad Nacional</option>
+                            <option value="Universidad de los Andes" style={{"fontSize":"20px"}}>Universidad de los Andes</option>
+                            <option value="Universidad Tadeo Lozano" style={{"fontSize":"20px"}}>Universidad Tadeo Lozano</option>
+                        </select>
+                    </form>
+
+                    {this.state.value !== "Ninguna"? <Calendario cal={this.state.value} /> : <p>escoge una intitucion y espera a los resultados</p>}
+                    
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
                     <img src={HeaderImg} alt="Personas hablando" className="img-fluid vert-move" width="430" />
                     <br/>
                 </div>
@@ -52,6 +94,9 @@ class Inicio extends Component {
                      
                 </div>
             </div> 
+            <footer className="border-top">
+                <p className="text-center text-muted pt-4">Copyright 2020 - <a href="https://www.guruh.com.co/" className="px-1">GurUh / Grupo de Investigación</a></p>
+            </footer>
             
         </div>
     );

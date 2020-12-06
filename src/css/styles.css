@@ -552,6 +552,8 @@ pre code {
   margin-left: auto;
 }
 
+
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
@@ -9977,6 +9979,17 @@ footer a:hover {
   border: 1px solid #5ed6b3;
 }
 
+.btn-try {
+  transition: all 0.5s ease-in-out;
+  color: white;
+}
+
+.btn-try:hover {
+  background: transparent;
+  color: #5cb85c;
+  border: 2px solid #5cb85c;
+}
+
 .btn-info {
   transition: all 0.5s ease-in-out;
   color: white;
@@ -10170,6 +10183,18 @@ footer a:hover {
 .btn-outline-success:hover {
   color: white;
   background-color: #5ed6b3;
+}
+
+.btn-outline-try {
+  color: #5cb85c;
+  background-color: white;
+  border: 2px solid #5cb85c;
+  transition: all 0.5s ease-in-out;
+}
+
+.btn-outline-try:hover {
+  color: white;
+  background-color: #5cb85c;
 }
 
 .btn-outline-info {
