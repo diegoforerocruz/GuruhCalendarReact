@@ -43,13 +43,13 @@ class Inicio extends Component {
                          style={{"width": "100%", "height": "50px","fontSize":"20px", "paddingLeft":"1em","marginRight":"0px"}}>
                             <option value="Ninguna" style={{"fontSize":"20px"}}>Escoge una organización</option>
                             
-                            <option value="Universidad Nacional" style={{"fontSize":"20px"}}>Universidad Nacional</option>
                             <option value="Universidad de los Andes" style={{"fontSize":"20px"}}>Universidad de los Andes</option>
                             <option value="Universidad Tadeo Lozano" style={{"fontSize":"20px"}}>Universidad Tadeo Lozano</option>
+                            <option value="Universidad del Rosario" style={{"fontSize":"20px"}}>Universidad del Rosario</option>
                         </select>
                     </form>
 
-                    {this.state.value !== "Ninguna"? <Calendario cal={this.state.value} /> : <p>escoge una intitucion y espera a los resultados</p>}
+                    {this.state.value !== "Ninguna"? <Calendario cal={this.state.value} /> : <p>escoge una institucion y espera a los resultados</p>}
                     
                     <br/>
                     <br/>

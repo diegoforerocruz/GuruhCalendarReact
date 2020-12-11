@@ -1,0 +1,91 @@
+[{
+    "id": 1,
+    "Nombre": "Inscripciones",
+    "FechaInicio": "21-09-2020",
+    "FechaFin": "15-01-2021",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Carrera 4 # 22-61",
+    "Notificaciones": []
+},
+{
+    "id": 2,
+    "Nombre": "Publicación de Resultados",
+    "FechaInicio": "25-09-2020",
+    "FechaFin": "20-01-2021",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 3,
+    "Nombre": "Publicación de Órdenes de Matrícula  en el portal de Estudiantes y Web",
+    "FechaInicio": "25-09-2020",
+    "FechaFin": "20-01-2021",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 4,
+    "Nombre": "Inscripción de horario después del Pago de Matrícula",
+    "FechaInicio": "10-11-2020",
+    "FechaFin": "",
+    "numNotificaciones": 0,
+    "Tipo": "INDUCCION",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 5,
+    "Nombre": "Carnetización por Grupos Estudiantes  Nuevos Bogotá",
+    "FechaInicio": "12-01-2021",
+    "FechaFin": "29-01-2021",
+    "numNotificaciones": 0,
+    "Tipo": "INDUCCION",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 6,
+    "Nombre": "Bienvenida e Inducción Nuevos Estudiantes Bogotá",
+    "FechaInicio": "13-01-2021",
+    "FechaFin": "15-01-2021",
+    "numNotificaciones": 0,
+    "Tipo": "INDUCCION",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 7,
+    "Nombre": "Encuentro de Padres y Acudientes Bogotá",
+    "FechaInicio": "16-01-2021",
+    "FechaFin": "16-01-2021",
+    "numNotificaciones": 0,
+    "Tipo": "INDUCCION",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 8,
+    "Nombre": "Inicio de clases Bogotá",
+    "FechaInicio": "18-01-2021",
+    "FechaFin": "18-01-2021",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 9,
+    "Nombre": "Finalización de clases Bogotá",
+    "FechaInicio": "15-05-2021",
+    "FechaFin": "15-05-2021",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+}
+]

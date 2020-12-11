@@ -1,0 +1,271 @@
+[{
+    "id": 1,
+    "Nombre": "Inicio de Clases",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "20-01-2020",
+    "FechaFin": "20-01-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 2,
+    "Nombre": "Inicio de Clases",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "10-08-2020",
+    "FechaFin": "10-08-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 3,
+    "Nombre": "Semana de receso",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "16-03-2020",
+    "FechaFin": "20-03-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 4,
+    "Nombre": "Semana de receso",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "05-10-2020",
+    "FechaFin": "09-10-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 5,
+    "Nombre": "Ultimo día de clases*",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "23-05-2020",
+    "FechaFin": "23-05-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 6,
+    "Nombre": "Ultimo día de clases*",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "05-12-2020",
+    "FechaFin": "05-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 7,
+    "Nombre": "Exámenes finales**",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "26-05-2020",
+    "FechaFin": "04-06-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 8,
+    "Nombre": "Exámenes finales**",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "07-12-2020",
+    "FechaFin": "17-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 9,
+    "Nombre": "Rotaciones clínicas de Especializaciones Médicas",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "01-02-2020",
+    "FechaFin": "undefined-undefined-Jul.31",
+    "numNotificaciones": 0,
+    "Tipo": "MEDICINA",
+    "Notificaciones": []
+},
+{
+    "id": 10,
+    "Nombre": "Rotaciones clínicas de Especializaciones Médicas",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "03-08-2020",
+    "FechaFin": "29de2021-01-2020",
+    "numNotificaciones": 0,
+    "Tipo": "MEDICINA",
+    "Notificaciones": []
+},
+{
+    "id": 11,
+    "Nombre": "Consejería Académica",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "20-01-2020",
+    "FechaFin": "03-06-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 12,
+    "Nombre": "Consejería Académica",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "10-08-2020",
+    "FechaFin": "16-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 13,
+    "Nombre": "Bienvenida a padres de estudiantes primer semestre pregrado, encuentro virtual 9:00 a.m. a 12:00 p.m.",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "08-02-2020",
+    "FechaFin": "08-02-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 14,
+    "Nombre": "Bienvenida a padres de estudiantes primer semestre pregrado, encuentro virtual 9:00 a.m. a 12:00 p.m.",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "22-08-2020",
+    "FechaFin": "22-08-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 15,
+    "Nombre": "Open Week de posgrados",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "18-03-2020",
+    "FechaFin": "18-03-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 16,
+    "Nombre": "Open Week de posgrados",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "03-09-2020",
+    "FechaFin": "11-09-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 17,
+    "Nombre": "Actualización del Catálogo General 2020 por parte de los departamentos",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "09-03-2020",
+    "FechaFin": "06-05-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 18,
+    "Nombre": "Evaluación de cursos y profesores",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "11-05-2020",
+    "FechaFin": "29-05-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 19,
+    "Nombre": "Evaluación de cursos y profesores",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "17-11-2020",
+    "FechaFin": "04-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 20,
+    "Nombre": "Día del profesor",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "13-05-2020",
+    "FechaFin": "13-05-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 21,
+    "Nombre": "Inauguración día Paíz - A partir de las 2:00 p.m. no habrá clases para estudiantes de pregrado",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "21-09-2020",
+    "FechaFin": "21-09-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 22,
+    "Nombre": "XXIII Feria de Colegios",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "01-10-2020",
+    "FechaFin": "01-10-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 23,
+    "Nombre": "Feria Quiero Estudiar",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "10-10-2020",
+    "FechaFin": "10-10-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 24,
+    "Nombre": "Cumpleaños de la Universidad",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "12-11-2020",
+    "FechaFin": "12-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 25,
+    "Nombre": "Semana del Estudiante",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "28-09-2020",
+    "FechaFin": "02-10-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 26,
+    "Nombre": "Día de cierre Semana del Estudiante - A partir de las 2:00 p.m. no habrá clases",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "02-10-2020",
+    "FechaFin": "02-10-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+},
+{
+    "id": 27,
+    "Nombre": "Semana Paíz",
+    "Ubicacion": "Cra. 1 #18a-12, Bogota",
+    "FechaInicio": "21-09-2020",
+    "FechaFin": "25-09-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Notificaciones": []
+}
+]

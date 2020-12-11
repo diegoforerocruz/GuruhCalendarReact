@@ -1,0 +1,931 @@
+[{
+    "id": 1,
+    "Nombre": "Comité de idiomas virtual o regular",
+    "FechaInicio": "27-08-2020",
+    "FechaFin": "27-08-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 2,
+    "Nombre": "Grupos Cancelados Programas Escuela de Medicina y Ciencias de la Salud. Año 2019",
+    "FechaInicio": "18-12-2020",
+    "FechaFin": "18-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 3,
+    "Nombre": "Registro de Asignaturas estudiantes antiguos  Programas Claustro,Escuela de Ciencias Humanas, Matemáticas",
+    "FechaInicio": "08-01-2020",
+    "FechaFin": "13-01-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 4,
+    "Nombre": "Grupos Cancelados Programas Escuela de Administración y Facultad de Creación: Teatro Musical",
+    "FechaInicio": "10-01-2020",
+    "FechaFin": "10-01-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 5,
+    "Nombre": "Comité de idiomas virtual o regular",
+    "FechaInicio": "20-01-2020",
+    "FechaFin": "20-01-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 6,
+    "Nombre": "Actividades RoseA - Inmesión en inglés",
+    "FechaInicio": "27-01-2020",
+    "FechaFin": "16-05-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 7,
+    "Nombre": "Fecha límite para tramitar retiro de cursos para todos los programas",
+    "FechaInicio": "15-03-2021",
+    "FechaFin": "15-03-2021",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 8,
+    "Nombre": "Semana Santa",
+    "FechaInicio": "06-04-2020",
+    "FechaFin": "10-04-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 9,
+    "Nombre": "Semana del Bienestar",
+    "FechaInicio": "20-04-2020",
+    "FechaFin": "24-04-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 10,
+    "Nombre": "Presentación de los estudiantes de sus solicitudes a las Secretarias Académicas para el Comité de idiomas virtual o regular",
+    "FechaInicio": "20-04-2020",
+    "FechaFin": "20-04-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 11,
+    "Nombre": "Comité de idiomas virtual o regular",
+    "FechaInicio": "30-04-2020",
+    "FechaFin": "30-04-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 12,
+    "Nombre": "Publicación de catálogo web de la oferta académica",
+    "FechaInicio": "15-05-2020",
+    "FechaFin": "15-05-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 13,
+    "Nombre": "Día del profesor",
+    "FechaInicio": "15-05-2020",
+    "FechaFin": "15-05-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 14,
+    "Nombre": "Comité de idiomas institucional presidido por la Sra. Vicerrectora - CAI institucional",
+    "FechaInicio": "20-05-2020",
+    "FechaFin": "20-05-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 15,
+    "Nombre": "Registro de asignaturas todos los programas",
+    "FechaInicio": "29-05-2020",
+    "FechaFin": "31-05-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 16,
+    "Nombre": "Registro intersemestrales",
+    "FechaInicio": "29-05-2020",
+    "FechaFin": "31-05-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 17,
+    "Nombre": "Presentación de los estudiantes de sus solicitudes a las Secretarias Académicas para el Comité de idiomas virtual o regular",
+    "FechaInicio": "01-06-2020",
+    "FechaFin": "01-06-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 18,
+    "Nombre": "Grupos Cancelados intersemestrales",
+    "FechaInicio": "01-06-2020",
+    "FechaFin": "01-06-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 19,
+    "Nombre": "Internado Rotatorio",
+    "FechaInicio": "01-06-2020",
+    "FechaFin": "30-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 20,
+    "Nombre": "Publicación de Salones",
+    "FechaInicio": "01-06-2020",
+    "FechaFin": "01-06-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 21,
+    "Nombre": "Inicio y finalización de clases todos los programas",
+    "FechaInicio": "02-06-2020",
+    "FechaFin": "17-07-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 22,
+    "Nombre": "Fecha límite para reportar notas tercer corte Medicina e ingresar notas al SIAR",
+    "FechaInicio": "07-06-2020",
+    "FechaFin": "07-06-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 23,
+    "Nombre": "Comité de idiomas virtual o regular",
+    "FechaInicio": "08-06-2020",
+    "FechaFin": "08-06-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 24,
+    "Nombre": "Pago cursos intersemestrales",
+    "FechaInicio": "10-06-2020",
+    "FechaFin": "10-06-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 25,
+    "Nombre": "Publicación de catálogo web de la oferta académica",
+    "FechaInicio": "10-06-2020",
+    "FechaFin": "10-06-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 26,
+    "Nombre": "Grupos Cancelados Programas Escuela de Medicina y Ciencias de la Salud",
+    "FechaInicio": "23-06-2020",
+    "FechaFin": "23-06-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 27,
+    "Nombre": "Grupos Cancelados Programas Escuela de Administración y Facultad de Creación: Teatro Musical",
+    "FechaInicio": "06-07-2020",
+    "FechaFin": "06-07-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 28,
+    "Nombre": "Registro de asignaturas Estudiantes Medicina 1-6",
+    "FechaInicio": "15-07-2020",
+    "FechaFin": "15-07-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 29,
+    "Nombre": "Cierre académico y normativa académica - Todos los Programas",
+    "FechaInicio": "17-07-2020",
+    "FechaFin": "17-07-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 30,
+    "Nombre": "Inicio y finalización de actividades programas virtuales DMD - Tercer ciclo",
+    "FechaInicio": "20-07-2020",
+    "FechaFin": "26-09-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 31,
+    "Nombre": "Segunda fecha. Período pago de matrícula Estudiantes Medicina 1-6",
+    "FechaInicio": "23-07-2020",
+    "FechaFin": "23-07-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 32,
+    "Nombre": "Retiro de asignaturas de estudiantes Medicina 1-6",
+    "FechaInicio": "27-07-2020",
+    "FechaFin": "28-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 33,
+    "Nombre": "Inicio y finalización de Clases estudiantes Medicina 1-6",
+    "FechaInicio": "27-07-2020",
+    "FechaFin": "21-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 34,
+    "Nombre": "Grupos Cancelados todos los programas",
+    "FechaInicio": "28-07-2020",
+    "FechaFin": "28-07-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 35,
+    "Nombre": "Publicación de Salones",
+    "FechaInicio": "01-08-2020",
+    "FechaFin": "01-08-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 36,
+    "Nombre": "Consulta médica inicial",
+    "FechaInicio": "03-08-2020",
+    "FechaFin": "30-09-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 37,
+    "Nombre": "Inicio y finalización de clases todos los programas",
+    "FechaInicio": "03-08-2020",
+    "FechaFin": "28-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 38,
+    "Nombre": "Retiro de asignaturas todos los programas",
+    "FechaInicio": "03-08-2020",
+    "FechaFin": "28-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 39,
+    "Nombre": "Registro de asignaturas Estudiantes Medicina 7-8",
+    "FechaInicio": "06-08-2020",
+    "FechaFin": "06-08-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 40,
+    "Nombre": "Registro de asignaturas Estudiantes Medicina 9-10",
+    "FechaInicio": "06-08-2020",
+    "FechaFin": "06-08-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 41,
+    "Nombre": "Período para solicitud de homologaciones y reconocimientos de otros períodos",
+    "FechaInicio": "10-08-2020",
+    "FechaFin": "30-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 42,
+    "Nombre": "Período para solicitud de exámenes de validación",
+    "FechaInicio": "11-08-2020",
+    "FechaFin": "28-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 43,
+    "Nombre": "Fecha límite de reserva de cupo estudiantes antiguos y retiro de asignaturas con beneficio económico Todos los Programas",
+    "FechaInicio": "11-08-2020",
+    "FechaFin": "11-08-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 44,
+    "Nombre": "Fecha límite de reserva de cupo estudiantes antiguos y retiro de asignaturas con beneficio económico estudiantes Medicina 1-6",
+    "FechaInicio": "11-08-2020",
+    "FechaFin": "11-08-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 45,
+    "Nombre": "Presentación de los estudiantes de sus solicitudes a las Secretarias Académicas para el Comité de idiomas virtual o regular",
+    "FechaInicio": "18-08-2020",
+    "FechaFin": "18-08-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 46,
+    "Nombre": "Fecha máxima reportar primer corte Estudiantes Medicina 1-6",
+    "FechaInicio": "24-08-2020",
+    "FechaFin": "30-08-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 47,
+    "Nombre": "Inicio y finalización de Clases  estudiantes Medicina 9-10",
+    "FechaInicio": "01-09-2020",
+    "FechaFin": "19-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 48,
+    "Nombre": "Retiro de asignaturas de estudiantes Medicina 9-10",
+    "FechaInicio": "01-09-2020",
+    "FechaFin": "12-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 49,
+    "Nombre": "Inicio y finalización de Clases estudiantes Medicina 7-8",
+    "FechaInicio": "01-09-2020",
+    "FechaFin": "06feb.",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 50,
+    "Nombre": "Inicio y finalización de Clases estudiantes Medicina 9-10 con módulos electivos de profundización en investigación",
+    "FechaInicio": "01-09-2020",
+    "FechaFin": "14-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 51,
+    "Nombre": "Retiro de asignaturas de estudiantes Medicina 9-10 con módulos electivos de profundización en investigación",
+    "FechaInicio": "01-09-2020",
+    "FechaFin": "07-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 52,
+    "Nombre": "Retiro de asignaturas de estudiantes Medicina 7-8",
+    "FechaInicio": "01-09-2020",
+    "FechaFin": "30-01-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 53,
+    "Nombre": "Fecha máxima reportar primer corte todos los programas",
+    "FechaInicio": "07-09-2020",
+    "FechaFin": "13-09-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 54,
+    "Nombre": "Fecha límite de reserva de cupo estudiantes antiguos y retiro de asignaturas con beneficio económico estudiantes Medicina 7-8",
+    "FechaInicio": "11-09-2020",
+    "FechaFin": "11-09-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 55,
+    "Nombre": "Fecha límite de reserva de cupo estudiantes antiguos y retiro de asignaturas con beneficio económico estudiantes Medicina 9-10",
+    "FechaInicio": "11-09-2020",
+    "FechaFin": "11-09-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 56,
+    "Nombre": "Semana de Receso",
+    "FechaInicio": "21-09-2020",
+    "FechaFin": "26-09-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 57,
+    "Nombre": "Comité de idiomas institucional presidido por la Sra. Vicerrectora - CAI institucional",
+    "FechaInicio": "24-09-2020",
+    "FechaFin": "24-09-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 58,
+    "Nombre": "Comité de idiomas institucional presedido por el Vicerrector",
+    "FechaInicio": "24-09-2020",
+    "FechaFin": "24-09-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 59,
+    "Nombre": "Semana del Bienestar",
+    "FechaInicio": "02-10-2020",
+    "FechaFin": "16-10-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 60,
+    "Nombre": "Fecha máxima reportar segundo corte Estudiantes Medicina 1-6",
+    "FechaInicio": "04-10-2020",
+    "FechaFin": "10-10-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 61,
+    "Nombre": "Inicio y finalización de actividades programas virtuales DMD - Cuarto ciclo",
+    "FechaInicio": "05-10-2020",
+    "FechaFin": "12-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 62,
+    "Nombre": "Fecha máxima reportar segundo corte todos los programas",
+    "FechaInicio": "01-11-2020",
+    "FechaFin": "07-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 63,
+    "Nombre": "Presentación de los estudiantes de sus solicitudes a las Secretarias Académicas para el Comité de idiomas virtual o regular",
+    "FechaInicio": "09-11-2020",
+    "FechaFin": "09-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 64,
+    "Nombre": "Período de Evaluaciones Finales Pregrado Medicina 9-10 con módulos electivos de profundización en investigación",
+    "FechaInicio": "09-11-2020",
+    "FechaFin": "14-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 65,
+    "Nombre": "Envío de los soportes documentales y formatos de presentación a la Secretaría Técnica del CAI – Dirección de Estudiantes  por parte de los Secretarios Académicos",
+    "FechaInicio": "13-11-2020",
+    "FechaFin": "13-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 66,
+    "Nombre": "Comité de Idiomas - Casos estudiantiles",
+    "FechaInicio": "20-11-2020",
+    "FechaFin": "20-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 67,
+    "Nombre": "Comité de idiomas virtual o regular",
+    "FechaInicio": "20-11-2020",
+    "FechaFin": "20-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 68,
+    "Nombre": "Período de Evaluaciones Finales todos los programas de Estudios Universitarios y Fortalecimiento Académico",
+    "FechaInicio": "23-11-2020",
+    "FechaFin": "28-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 69,
+    "Nombre": "Fecha límite de reserva de cupo estudiantes antiguos y retiro de asignaturas con beneficio académico estudiantes Medicina 1-6",
+    "FechaInicio": "28-11-2020",
+    "FechaFin": "28-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 70,
+    "Nombre": "Último día del Período Académico (incluye evaluaciones finales)  todos los programas de Estudios Universitarios y Fortalecimiento Académico",
+    "FechaInicio": "28-11-2020",
+    "FechaFin": "28-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 71,
+    "Nombre": "Fecha límite de reserva de cupo estudiantes antiguos y retiro de asignaturas con beneficio académico Todos los Programas",
+    "FechaInicio": "28-11-2020",
+    "FechaFin": "28-11-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 72,
+    "Nombre": "Período de Evaluaciones Finales Estudiantes Medicina 1-6",
+    "FechaInicio": "30-11-2020",
+    "FechaFin": "05-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 73,
+    "Nombre": "Fecha máxima reportar tercer corte Estudiantes Medicina 1-6",
+    "FechaInicio": "30-11-2020",
+    "FechaFin": "07-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 74,
+    "Nombre": "Período de Evaluaciones Finales Todos los Programas",
+    "FechaInicio": "30-11-2020",
+    "FechaFin": "05-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 75,
+    "Nombre": "Cierre académico y normativa registro y control académico  programas de Estudios Universitarios y Fortalecimiento Académico",
+    "FechaInicio": "02-12-2020",
+    "FechaFin": "02-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 76,
+    "Nombre": "Período para solicitud de homologaciones y reconocimientos del período que culmina",
+    "FechaInicio": "03-12-2020",
+    "FechaFin": "18-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 77,
+    "Nombre": "Último día del Período Académico (incluye Evaluaciones finales) Estudiantes Medicina 1-6",
+    "FechaInicio": "05-12-2020",
+    "FechaFin": "05-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 78,
+    "Nombre": "Último día del Período Académico (Incluye evaluaciones finales) Todos los Programas",
+    "FechaInicio": "05-12-2020",
+    "FechaFin": "05-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 79,
+    "Nombre": "Fecha máxima reportar tercer corte todos los programas",
+    "FechaInicio": "08-12-2020",
+    "FechaFin": "08-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 80,
+    "Nombre": "Cierre de actas Secretarias Académicas - Todos los Programas",
+    "FechaInicio": "08-12-2020",
+    "FechaFin": "08-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 81,
+    "Nombre": "Cierre académico y normativa académica - Todos los Programas",
+    "FechaInicio": "09-12-2020",
+    "FechaFin": "09-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 82,
+    "Nombre": "Publicación Web de Notas Definitivas",
+    "FechaInicio": "12-12-2020",
+    "FechaFin": "12-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "",
+    "Notificaciones": []
+},
+{
+    "id": 83,
+    "Nombre": "Fecha límite de reserva de cupo estudiantes antiguos y retiro de asignaturas con beneficio académico estudiantes Medicina 9-10",
+    "FechaInicio": "12-12-2020",
+    "FechaFin": "12-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 84,
+    "Nombre": "Período de Evaluaciones Finales Pregrado Medicina 9-10",
+    "FechaInicio": "14-12-2020",
+    "FechaFin": "19-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 85,
+    "Nombre": "Cierre de actas Secretaria Académica - Pregrado Medicina",
+    "FechaInicio": "15-12-2020",
+    "FechaFin": "15-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "",
+    "Notificaciones": []
+},
+{
+    "id": 86,
+    "Nombre": "Último día del Período Académico (incluye Evaluaciones finales) Pregrado Medicina 9-10",
+    "FechaInicio": "19-12-2020",
+    "FechaFin": "19-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 87,
+    "Nombre": "Cierre académico Estudiantes Medicina 9-10",
+    "FechaInicio": "22-12-2020",
+    "FechaFin": "22-12-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 88,
+    "Nombre": "Fecha máxima reportar notas definitivas Estudiantes Medicina 9-10",
+    "FechaInicio": "22-12-2020",
+    "FechaFin": "19-01-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "",
+    "Notificaciones": []
+},
+{
+    "id": 89,
+    "Nombre": "Fecha límite de reserva de cupo estudiantes antiguos y retiro de asignaturas con beneficio académico estudiantes Medicina 7-8",
+    "FechaInicio": "30-01-2020",
+    "FechaFin": "30-01-2020",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 90,
+    "Nombre": "Período de Evaluaciones Finales Pregrado Medicina 7-8",
+    "FechaInicio": "01feb.",
+    "FechaFin": "06feb.",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 91,
+    "Nombre": "Fecha máxima reportar notas definitivas Estudiantes Medicina 7-8",
+    "FechaInicio": "06feb.",
+    "FechaFin": "19feb.",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 92,
+    "Nombre": "Último día del Período Académico (incluye Evaluaciones finales) Pregrado Medicina 7-8",
+    "FechaInicio": "06feb.",
+    "FechaFin": "06feb.",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+},
+{
+    "id": 93,
+    "Nombre": "Cierre académico Estudiantes Medicina 7-8",
+    "FechaInicio": "19feb.",
+    "FechaFin": "19feb.",
+    "numNotificaciones": 0,
+    "Tipo": "GENERAL",
+    "Ubicacion": "Calle 12 C N 6-25",
+    "Notificaciones": []
+}
+]
