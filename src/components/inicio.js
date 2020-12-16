@@ -5,6 +5,7 @@ import Group1 from './img/group-1.png';
 import Group2 from './img/group-2.png';
 import HeaderImg from './img/pageHeader.png';
 
+
 class Inicio extends Component {
 
     constructor(props) {
@@ -35,6 +36,7 @@ class Inicio extends Component {
                     <h1 className="font-weight-semibold">Recopilación de calendarios académicos</h1>
                     <h6 className="font-weight-normal text-muted pb-3">Proyecto de investigación y creación en pregrado</h6>
                     <br/>
+                    
                     <br/>
                     <form id="formulario" className="form-inline" style={{"marginLeft":"2.5em"}}>
                         <label className="my-1" htmlFor="inlineFormCustomSelectPref"></label>
