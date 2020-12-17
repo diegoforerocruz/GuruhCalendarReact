@@ -31,7 +31,6 @@ const Events = ({events, universidad}) => {
         );
     }
 
-
     return (
         <div>
             <form className="form-inline" id="formularioCorreo">
