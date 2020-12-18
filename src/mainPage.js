@@ -11,7 +11,7 @@ class MainPage extends Component {
         return (
             
             <HashRouter>
-                <nav className="navbar navbar-expand-lg pl-3 pl-sm-0" id="navbar">
+                <nav className="navbar navbar-expand-lg pl-3 pl-sm-0" id="navbarGuruh">
                     <div className="container">
                         <div className="navbar-brand-wrapper d-flex w-100">
                             <img src={LogoImg} alt="logo" height="70"/>
